@@ -1,2 +1,1 @@
-# python-unifi-device-counter
-Counts UniFi Devices in MongoDB
+# Python UniFi Device Counter
